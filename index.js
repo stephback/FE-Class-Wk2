@@ -88,3 +88,10 @@ console.log(num + "is odd: " + isOddNum);
 // 
 // 5000 + 300 + 200 + 9 = 5239
 let NumGreaterThan1000LessThan10000 = 1234; // No idea why this variable name is 1000 characters long but, hey, at least it gets the point across?
+
+/* Quotient and remainder (divide and modulo)
+Start at biggest power of 10 then break number down from left to right
+Loop through each */
+
+
+
